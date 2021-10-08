@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AxxSol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AxxSol\\.nuget\\packages"
+    ]
+  }
+}
